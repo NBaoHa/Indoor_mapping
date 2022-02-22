@@ -100,5 +100,5 @@ There you have it,
  
 with the RPlidar and Raspberry pi working, you can walk around holding the lidar to map out the indoor space.
 But to make things more interesting, why not sit at a chair and use an RC car instead to do the moving around....
-we will move a step further in utilizing a freenove 4WD car
+we will move a step further in utilizing a freenove 4WD car in the mounting lidar module
 
