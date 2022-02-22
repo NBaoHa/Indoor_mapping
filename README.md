@@ -16,3 +16,7 @@ Concept:
 Freenove assembly directions:
       - They provided tutorial on their [webpage](https://www.freenove.com/tutorial.html) with product SKU of FNK0043
 
+
+
+![273067617_701237124372677_3897573666001596958_n](https://user-images.githubusercontent.com/92132758/155063232-05c678c5-9f7b-45ae-8b0b-7be9821ae611.jpg)
+![273773857_701806374313430_8141124923170405849_n](https://user-images.githubusercontent.com/92132758/155063239-718ee5e2-b39a-4fc4-bf8c-94b848cde0f6.jpg)
